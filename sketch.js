@@ -31,7 +31,7 @@ function setup() {
     //$('#downvolume').show();
     $('#upvolume').fadeIn('250');
     $('#downvolume').fadeIn('250');
-  }, '50');
+  }, '5000');
 }
 
 function draw() {
